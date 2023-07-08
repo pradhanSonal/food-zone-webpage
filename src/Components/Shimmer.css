@@ -1,0 +1,11 @@
+.parent-card{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .child-card{
+    width: 210px;
+    height:400px ;
+    border: 1px solid gray;
+    margin: 10px;
+  }
+  
